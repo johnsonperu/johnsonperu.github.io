@@ -283,7 +283,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 225)
-  jekyll-agency (~> 1.0)
+  jekyll-agency
 
 BUNDLED WITH
    2.3.8

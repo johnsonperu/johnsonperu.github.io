@@ -1,19 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+caption: #what displays in the portfolio grid:
+  title: Sistema de control de acceso
+  subtitle: Instalación de un sistema de control de acceso para un hotel.
+  thumbnail: assets/img/portfolio/acceso2.jpg
+  
+#what displays when the item is clicked:
+title: Sistema de control de acceso
+subtitle: Instalación de un sistema de control de acceso para un hotel. 
+image: assets/img/portfolio/acceso2.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: image alt text
 
-caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
+**Johnson Peru Solutions** Realizó la puesta en marcha del sistema de control de acceso.
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+La marca del sistema de intrusión implementado es Kantech.
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+{:.list-inline} 
+- Fecha: Febrero 2022
+- Cliente Final:  Hilton Garden Inn
+- Categoria: Instalaciones hoteleras

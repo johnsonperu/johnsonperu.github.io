@@ -54,7 +54,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Marcas"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: 
         logo: assets/img/clients/marcas.png        
         
 
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: 
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"

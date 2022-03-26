@@ -13,7 +13,6 @@ en: &DEFAULT_EN
   header:
     title: 
     text: 
-    button: Ver Servicios
     buttonlink: "#services"
 
   services:
@@ -23,19 +22,19 @@ en: &DEFAULT_EN
     list:
       - title: "Automatización Industrial"
         desc: "Automatización de procesos industriales a través de sensores, actuadores y PLC. Automatización de procesos en la industria: minería, hidrocarburos, alimenticia, envasadora, etc."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-industry #find more at https://fontawesome.com/icons
       - title: "Seguridad Electrónica"
         desc: "Los sistemas de seguridad electrónica contribuyen con la protección de la personas y las instalaciones. Se cuenta con sistemas como: CCTV, control de acceso peatonal, control de acceso vehicular, intrusión en las instalaciones, seguridad perimetral, detección y alarma de incendio."
         icon: fas fa-laptop
       - title: "Infraestructura de Red"
         desc: "La infraestructura de red es el canal sobre el cual fluye la información lo que permite la comunicación entre diferentes puntos. Se considera infraestructura de red cableada e inalámbrica. Verticales de aplicación: aeropuertos, minas, industrias, hospitales, entre otros."
-        icon: fab fa-markdown
+        icon: fas fa-network-wired
       - title: "BMS"
         desc: "Automatización de edificaciones tal como edificios de oficinas, hoteles, hospitales, clínicas, centros comerciales, entre otros. Se tiene como objetivo principal gestionar de la mejor manera los sistemas de las edificación a fin de optimizar la energía que se consume."
-        icon: fab fa-markdown
+        icon: fas fa-building
       - title: "Sistemas Complementarios"
         desc: "Los sistemas complementarios son importantes en los diferentes sectores tales como hospitales, edificios de oficinas, etc. Se cuenta con los siguientes sistemas: Llamado de enfermera, relojes sincronizados, perifoneo (PAVA), marcadores de asistencia, teléfonos IP y análogos, intercomunicadores, entre otros."
-        icon: fab fa-markdown
+        icon: fas fa-phone
 
   portfolio:
     title: "Experiencias"

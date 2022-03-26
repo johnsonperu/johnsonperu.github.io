@@ -35,7 +35,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
       - title: "Sistemas Complementarios"
         desc: "Los sistemas complementarios son importantes en los diferentes sectores tales como hospitales, edificios de oficinas, etc. Se cuenta con los siguientes sistemas: Llamado de enfermera, relojes sincronizados, perifoneo (PAVA), marcadores de asistencia, teléfonos IP y análogos, intercomunicadores, entre otros."
-        icon: fab fa-markdown                
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Experiencias"
 
   about:
     title: "Nosotros"
@@ -44,74 +47,47 @@ en: &DEFAULT_EN
     section: about
 
   clients:
+    title: "Marcas con las que trabajamos"
     section: clients
-    max-height: 100px
+    max-height: 500px
+    max-width: 500px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Marcas"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/marcas.png        
+        
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Nuestros Representantes"
+    text: "Estamos enfocados a brindarte soluciones personalizadas y nuestros representantes están dispuestos a ayudarte desde la concepción hasta la realización de tu proyecto."
+    subtext: 
     section: team
     people:
-      - name: "Team member 1"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Miguel Torre"
+        role: "Jefe de Ingeniería. Ingeniero Mecatrónico de la Universidad Tecnológica del Perú y graduado en Administración y Dirección de empresas de la ESAN. Encargado de la coordinación y ejecución del área de desarrollo de ingeniería en las especialidades de Detección y Alarma Contra Incendio, Supresión a base de Agente Limpio, Detección Temprana, Seguridad Electrónica y BMS."
+        image: assets/img/team/Miguel.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://pe.linkedin.com/in/migueltf
             icon: fab fa-linkedin-in
-      - name: "Ivan Johnson"
-        role: "CEO"
-        image: assets/img/team/2.jpg
+      - name: "Ivan Sánchez"
+        role: "CEO de Johnson Peru. Ingeniero Mecatrónico de la Universidad Nacional de Ingenería con experiencia en Automatización Industrial, Sistemas de Detección y Alarma de Incendio, Instrumentación, Clasificación de áreas peligrosas, y Sistema Eléctrico en Baja Tensión."
+        image: assets/img/team/Ivan.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/ivanjohnson.sanchezyarleque
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://pe.linkedin.com/in/ivan-sanchez-83a99328
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contacto"
-    text: "Puedes usar el formulario, directamente llamar a: +51 966531412, +51 1 3637809 o escribirnos a ivan.sanchez@johnsonperu.com"
-    section: contact
-    name: "Nombre*"
-    name-validation: "Por favor, ingrese su nombre."
-    email: "Email*"
-    email-validation: "Por favor, ingrese su correo electrónico."
-    phone: "Número telefónico"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor, ingrese un mensaje."
-    subject: "Contacto de formulario de la Web"
-    submit: "Enviar Mensaje"
+    text: "Celular: +51 966531412, +51 1 3637809 <br> Correo Electrónico: ivan.sanchez@johnsonperu.com"
 
   footer:
     legal: "Privacy Policy"
@@ -207,18 +183,10 @@ es: &DEFAULT_ES
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Marcas"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/marcas.png
+
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"

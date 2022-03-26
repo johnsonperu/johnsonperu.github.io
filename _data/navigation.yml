@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Nosotros"
       section: about
-    - title: "Cronología"
-      section: timeline
     - title: "Equipo"
       section: team
     - title: "Contáctenos"
